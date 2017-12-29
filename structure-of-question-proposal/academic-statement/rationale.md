@@ -1,0 +1,4 @@
+Why is this an academically interesting question? Why is it important to spend time on it? What insights would the answer provide? What insights will studying it – even if you don’t answer it – provide? You might establish a rationale by showing that there’s a gap in our knowledge that your Question would answer, or you might do this by showing the “real-world” stakes of answering the question in a way that translates knowledge into practice, or you might show how the question is a timeless aspect of human existence whose examination and re-examination generates insights into the human experience. Regardless of the specific strategy you use, your rationale should do two things: First, it should return to the common ground you established at the beginning of your Question Proposal, and second, it should make it clear to the reader why they should care about your Question and why it is worth exploring.
+
+
+

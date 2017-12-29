@@ -1,0 +1,6 @@
+
+
+This is where you describe what specifically you are going to do to inquire into this interesting and relevant Question. This section begins with a paragraph or two about your overall plan. For example, you might want to explore some ideas by taking classes or reading seminal literature in the field by including certain specific books in your touchstones, while other areas you may want to gain specific skills or experiences better served through an Experiential Learning, a Quest Summer Fellowship, or through a particular Keystone project that you might already have in mind. How have you chosen to divide up your lines of inquiry between courses, touchstones, experiential learning? Why this way and not some other way? Your goal here is to convince your reader that the way you have chosen to spend your time is valuable, appropriate, and achievable.
+
+Your introductory paragraph is then followed with subsections \(often in point form and/or in tables\) that outlines exactly which books you’ll be reading, which courses you’ll be taking, and a brief rationale for each one that conveys to your audience that you know what each course is about, and can justify how each one relates to your Question.
+
