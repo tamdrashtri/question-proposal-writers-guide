@@ -14,7 +14,7 @@
   * [You have a specific and achievable plan to pursue your chosen line of inquiry](the-question-proposal-as-argument/you-have-a-specific-and-achievable-plan-to-pursue-your-chosen-line-of-inquiry.md)
 * [Linking argument and structure](structure-overview.md)
 
-## Structure of your Question
+## Structure of your Question Proposal
 
 * [Structure of Question Proposal](structure-of-question-proposal.md)
   * [Question Statement](structure-of-question-proposal/question-statement.md)
