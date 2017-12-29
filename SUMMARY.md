@@ -1,5 +1,7 @@
 # Summary
 
+## Introduction
+
 * [Quest Question Guide](README.md)
 * [The Question Proposal as Argument](the-question-proposal-as-argument.md)
 * [Question Title](question-title.md)
