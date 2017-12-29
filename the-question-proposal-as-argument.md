@@ -4,11 +4,5 @@ A Question Proposal is not just a series of short texts that explain how you wil
 
 It is important to keep in mind, though, that an effective Question Proposal makes the rhetorical moves to build this argument _through_ the components of the text listed in later pages. In other words, you need to accomplish several tasks with your text – but this doesn’t mean that you will simply add additional subheadings for each task! Think about what your text is _doing_ in terms of building an argument as well as what information it is conveying.
 
-Who is your audience?
 
-When writing your Question Proposal, imagining your audience can be difficult. Are you writing to your Mentor, your friends, your parents, your future employers? Arguably, all these people \(and many others\) are going to ask you about your Question over the next few years, so being able to discuss your Question with a diverse audience in an engaging way will be immensely valuable. Given the varied interests of this broad potential audience, you might want think about writing to an informed general public \(that encompasses all these people\) when choosing your tone. If you’re unsure, simply imagine each one of these people and try to think about what might motivate them to care about your Question. Or better yet, ask them!
-
-What does a good Question Proposal do?
-
-The obvious thing that a Question Proposal does is to articulate a Question. Articulating a question is just the price of admission to a Question Proposal, although \(as you will discover over the course of Question Block\) this is itself a challenging thing to do. Your Question Plan also needs to develop an effective argument that convinces your readers of three things: i\) that your Question is worth studying, e.g. because there is a gap in our collective understanding or existing knowledge on the topic, ii\) that your Question fits into an existing body of knowledge and draws on knowledge from numerous disciplines, and iii\) you have a specific and achievable plan to pursue your chosen line of inquiry into this Question. To do each of these things requires different kinds of information, and merely having that information in your Question Proposal doesn’t automatically mean that it will successfully make that argument.
 

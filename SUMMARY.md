@@ -3,9 +3,15 @@
 ## Introduction
 
 * [Quest Question Guide](README.md)
-* [The Question Proposal as Argument](the-question-proposal-as-argument.md)
 * [Question Title](question-title.md)
 * [Academic Statement](academic-statement.md)
+
+## The Question Proposal as an Argument
+
+* [The Question Proposal as Argument](the-question-proposal-as-argument.md)
+  * [What does a good Question Proposal do?](the-question-proposal-as-argument/what-does-a-good-question-proposal-do.md)
+  * [Your Question is worth studying](the-question-proposal-as-argument/your-question-is-worth-studying.md)
+* [Who is your audience?](who-is-your-audience.md)
 
 ## Structure of your Question
 
